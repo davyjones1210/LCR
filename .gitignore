@@ -6,3 +6,5 @@ __pycache__/
 tmp/
 01_materials/notebooks/Classification-1.ipynb
 01_materials/notebooks/Classification-2.ipynb
+01_materials/notebooks/Regression-1.ipynb
+01_materials/notebooks/Regression-2.ipynb
